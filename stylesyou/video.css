@@ -3,9 +3,12 @@
 .thumbnail{
   width: 100%;
 }
-}
 .video-card{
   width: 300px;
+}
+.video-link {
+  text-decoration: none;
+  color: black;
 }
 .pro-picture{
   width: 36px;
